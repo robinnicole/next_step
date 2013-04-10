@@ -1,0 +1,212 @@
+
+body{
+
+height: 100%;
+width: 100%;
+font-family:'Futura';
+
+}
+
+#container {
+position: absolute;
+width: 100%;
+height: 90%;
+left: 5%;
+top: 0px;
+overflow: scroll;
+}
+
+
+
+#header{
+
+position: absolute;
+/* left: 10px; */
+height: 68px;
+width:80%;
+top: 60px;
+}
+
+
+#instructions {
+
+position: absolute;
+
+width: 85%;
+height: 120px;
+/* top: 110px; */
+}
+
+#student_info{
+
+width: 100%;
+height: 100%;
+/* top: 50px; */
+
+}
+
+
+#student_form {
+position: absolute;
+top: 225px;
+
+height: 600px;
+width: 62%;
+}
+
+#bio_tips{
+position: absolute;
+left: 90%;
+/*
+width: 140px;
+height: 34px;
+background-color: aqua;
+
+text-decoration: none;
+font-size: 11px;
+border-radius: 4px;
+text-align: center
+*/
+top: 25%;
+}
+
+.helplinks{
+
+width: 140px;
+height: 34px;
+background-color: aqua;
+/* left: 90%; */
+text-decoration: none;
+font-size: 11px;
+border-radius: 4px;
+text-align: center;
+}
+
+#image_link{
+
+position: absolute;
+top: 49%;
+height: 45px;
+width: 100%;
+
+}
+
+
+#picture_tips{
+position: absolute;
+top: 15%;
+left: 90%;
+
+}
+
+
+#movie_link{
+position: absolute;
+height: 65px;
+width: 100%;
+top: 66%;
+
+
+}
+
+#movie_tips{
+
+position: absolute;
+/* top: 65%; */
+left: 90%;
+
+}
+
+
+#vision_board{
+
+position: absolute;
+height: 65px;
+width: 100%;
+top: 82%;
+
+
+}
+
+#vision_tips{
+position: absolute;
+left: 90%;
+
+}
+#complete {
+position: absolute;
+height: 50px;
+width: 150px;
+top: 98%;
+
+
+}
+#profile_wrap{
+
+position: absolute;
+width: 90%;
+height: 100%;
+ left:3%; 
+
+}
+
+
+#names{
+
+position: absolute;
+font-size: 34px;
+font-weight: bold;
+top: 55px;
+color:white;
+
+}
+
+#biography{
+
+position: relative;
+top: 35%;
+width: 50%;
+height: 300px;
+left: 57%;
+}
+
+#studentphoto{
+
+position: absolute;
+
+top: 90px;
+height: 600px;
+width: 700px;
+
+}
+
+#studentvisionboard {
+
+
+position: absolute;
+top: 40%;
+background-color: blue;
+left: 15%;
+width: 240px;
+height: 200px;
+/*
+width: 700px;
+height: 400px;
+left:4%;
+top: 32%;
+background-color: blue;
+*/
+
+}
+
+#studentfilm{
+
+position: absolute;
+top: 8%;
+background-color: white;
+left: 15%;
+width: 240px;
+height: 200px;
+
+
+}
